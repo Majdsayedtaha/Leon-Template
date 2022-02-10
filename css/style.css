@@ -215,7 +215,7 @@ header img {
     background-color: var(--section-background);
     padding: var(--section-padding);
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(390px, 1fr));
     grid-gap: 20px;
     text-align: center;
 }
